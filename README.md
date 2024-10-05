@@ -1,16 +1,11 @@
-# word_finder
+# Word Finder
 
-Find the words.
+A helper app for crossword quest and word games built using Flutter
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+This app can be used to find possible words from a given bunch of letters. It uses the NLTK -wordnet
 
-A few resources to get you started if this is your first Flutter project:
+My Mom played a Crossword quest game on her phone , I made this to for her help
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Future improvements you may do isto implement a bigger dictionary and use LMDB instead of txt file.
